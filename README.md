@@ -1,4 +1,12 @@
-# `<la-piscine>` galería de arte
+# `<la-piscine>` galería de arte (version 2023)
+
+## Link Publico:
+
+https://mj-una.github.io/la-piscine/
+
+<br>
+
+# `<la-piscine>` galería de arte (version actual)
 
 Este proyecto está basado en una plantilla-portfolio de imágenes y bocetos de p5.js llevado a cabo por [Benjamin Habert](https://github.com/benjaminhabert).
 
