@@ -87,7 +87,7 @@ Fuente: <a href="https://www.geocities.ws/obserflictos/rodney.html">https://www.
 
 * repositorio <a href="https://github.com/mj-una/am1-tp1-collatz" target="_blank" rel="noopener">github</a>
 
-* explicación <a href="https://editor.p5js.org/martin_julio/sketches/bnuPDME8h" target="_blank" rel="noopener">editor-p5</a>
+* explicación <a href="https://editor.p5js.org/mj-una/sketches/bnuPDME8h" target="_blank" rel="noopener">editor-p5</a>
 
 <br>
 
